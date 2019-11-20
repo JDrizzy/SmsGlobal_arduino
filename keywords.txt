@@ -1,0 +1,2 @@
+SmsGlobal KEYWORD1
+send  KEYWORD2
